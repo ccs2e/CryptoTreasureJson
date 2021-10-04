@@ -1,8 +1,8 @@
 {
-    "posts": [
+    "token": [
         {
             "id": 1,
-            "title": "hello"
+            "title": "coucou
         }
     ],
     "profile": {
