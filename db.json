@@ -2,7 +2,15 @@
     "token": [
         {
             "id": 1,
-            "title": "coucou"
+            "title": "First key",
+            "image": "https://www.iconexperience.com/_img/v_collection_png/256x256/shadow/keyboard_key_1.png",
+            "keyValue": 2
+        },
+        {
+            "id": 2,
+            "title": "Second key",
+            "image": "https://www.iconexperience.com/_img/v_collection_png/256x256/shadow/keyboard_key_2.png",
+            "keyValue": 1
         }
     ],
     "profile": {
